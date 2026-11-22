@@ -1,7 +1,8 @@
 # Student Management Dashboard (EduPulse)
 
 An enterprise-grade **Student Management Dashboard** built using **React (Vite)**, **Tailwind CSS**, **Context API**, **TanStack React Query**, and **React Router DOM**.
-
+![Logo](screenshots/home.png)
+![Logo](screenshots/students.png)
 This application is built for the **Module 18 Assignment** to demonstrate mastery of:
 - Components & Reusable Architecture
 - JSX, Props & Event Handling
